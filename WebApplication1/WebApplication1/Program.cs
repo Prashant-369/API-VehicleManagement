@@ -7,7 +7,6 @@ namespace WebApplication1
     {
         public static void Main(string[] args)
         {
-            string temp = null;
             CreateHostBuilder(args).Build().Run();
         }
 
